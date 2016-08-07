@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#9E9E9E</item>
+        <item name="colorPrimaryDark">#616161</item>
+        <item name="colorAccent">#A2AEBB</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowTransitionBackgroundFadeDuration">1000</item>
+        <item name="android:background">#343330</item>
+    </style>
+
+
+    <style name="CardView.Content" parent="android:Widget">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="CardConent">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+
+    <style name="AppThemeColl" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+    <style name="AppThemeColls" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+    <style name="forcastCard"  parent="android:Widget">
+    <item name="android:orientation">vertical</item>
+<item name="android:layout_margin">4dp</item>
+    <item name="android:background">@android:color/transparent</item>
+</style>
+
+    <style name="forcastitem" parent="android:Widget" >
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
+
+
+</resources>

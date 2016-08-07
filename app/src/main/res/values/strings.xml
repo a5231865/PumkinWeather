@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">南瓜天气</string>
+    <string name="input">添加城市</string>
+    <string name="text_undo">取消</string>
+    <string name="comf">舒适指数</string>
+    <string name="cw">洗车指数</string>
+    <string name="drgs">穿衣指数</string>
+    <string name="flu">流感指数</string>
+    <string name="sport">运动指数</string>
+    <string name="trav">旅游指数</string>
+    <string name="uv">防晒指数</string>
+    <string name="Monday">星期一</string>
+    <string name="Tuesday">星期二</string>
+    <string name="Wednesday">星期三</string>
+    <string name="Thursday">星期四</string>
+    <string name="Friday">星期五</string>
+    <string name="Saturday">星期六</string>
+    <string name="Sunday">星期日</string>
+    <string name="Today">今天</string>
+
+</resources>

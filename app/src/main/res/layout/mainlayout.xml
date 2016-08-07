@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:fitsSystemWindows="true">
+
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainbackground"
+    android:src="@drawable/mainbackground1"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/citylistrecyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/mainbackground1"
+
+            />
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

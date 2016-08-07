@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="colorAccent">#297373</color>
+    <color name="primary_text">#D3D4D9</color>
+    <color name="secondary_text">#727272</color>
+    <color name="card_background">#75DBCD</color>
+    <color name="material_red_50">#FF8552</color>
+    <color name="cardview_backgour_cloud">#9E9E9E</color>
+    <color name="cardview_backgour_sun">#F57C00</color>
+    <color name="cardview_backgour_rain">#9AC4F8</color>
+    <color name="cardview_backgour_storm">#E040FB</color>
+    <color name="cardview_backgour_partyclod">#3AAED8</color>
+    <color name="header_text">#FAFAFA</color>
+</resources>
